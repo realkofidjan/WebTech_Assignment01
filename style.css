@@ -22,6 +22,7 @@ body {
 img {
 	width: 100%;
 }
+
 a {
 	text-decoration: none;
 	color: white;
@@ -111,7 +112,8 @@ a {
 	gap: 2rem;
 }
 .profile_profileImg {
-	max-width: 250px;
+    max-width: 250px;
+    
 }
 .profile_name_firstName {
 	color: white;
@@ -221,6 +223,7 @@ a {
 }
 .social_item svg {
 	width: 2rem;
+}
 }
 
 hr {
